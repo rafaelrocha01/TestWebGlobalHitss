@@ -1,0 +1,11 @@
+org\br\globalhitss\page\Carrinho.class
+org\br\globalhitss\core\RestLib.class
+org\br\globalhitss\page\Home.class
+org\br\globalhitss\core\SeleniumLib.class
+org\br\globalhitss\page\LoginCliente.class
+org\br\globalhitss\config\Parametro.class
+org\br\globalhitss\steps\CucumberTest.class
+org\br\globalhitss\core\BasePage.class
+org\br\globalhitss\core\DriverSelenium.class
+org\br\globalhitss\steps\Pedido.class
+org\br\globalhitss\core\BaseTest.class
